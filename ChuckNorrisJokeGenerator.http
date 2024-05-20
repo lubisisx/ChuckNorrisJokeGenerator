@@ -1,0 +1,6 @@
+@ChuckNorrisJokeGenerator_HostAddress = http://localhost:5215
+
+GET {{ChuckNorrisJokeGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
